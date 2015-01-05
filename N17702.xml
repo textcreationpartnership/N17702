@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:022928_0000_0FBAC56D98A37308"/>
-            <pb facs="tcp:022928_0001_0FBAC56EB6C9D930" rendition="simple:additions"/>
+            <pb facs="unknown:022928_0000_0FBAC56D98A37308"/>
+            <pb facs="unknown:022928_0001_0FBAC56EB6C9D930"
+                rendition="simple:additions"/>
             <p>POEMS ON THE MOST Solemn Subjects.</p>
             <p>WRITTEN BY <hi>Abraham Thompſon.</hi>
             </p>
@@ -126,7 +127,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:022928_0002_0FBAC57033801500"/>
+            <pb facs="unknown:022928_0002_0FBAC57033801500"/>
             <head>Wiſdom crying in our ſtreets.</head>
             <lg n="1">
                <head>1.</head>
@@ -171,7 +172,7 @@
                <l>They there ſhall you ſurround.</l>
             </lg>
             <lg n="7">
-               <pb n="4" facs="tcp:022928_0003_0FBAC572EA49E1C8"/>
+               <pb n="4" facs="unknown:022928_0003_0FBAC572EA49E1C8"/>
                <head>7.</head>
                <l>If you're ambitious for a crown,</l>
                <l>And wiſh to reign a king,</l>
@@ -222,7 +223,7 @@
             </lg>
             <lg n="14">
                <pb n="5"
-                   facs="tcp:022928_0004_0FBAC574DD9BA2B8"
+                   facs="unknown:022928_0004_0FBAC574DD9BA2B8"
                    rendition="simple:additions"/>
                <head>14.</head>
                <l>You will remember well the ſtreet,</l>
@@ -269,7 +270,7 @@
                <l>Or laſting joys to you.</l>
             </lg>
             <lg n="4">
-               <pb n="6" facs="tcp:022928_0005_0FBAC57636499158"/>
+               <pb n="6" facs="unknown:022928_0005_0FBAC57636499158"/>
                <head>4.</head>
                <l>They will be ſcenes of long diſtreſs,</l>
                <l>If you ha'n't Chriſt your friend;</l>
@@ -315,7 +316,7 @@
                <l>And there you'll meet an able friend.</l>
             </lg>
             <lg n="4">
-               <pb n="7" facs="tcp:022928_0006_0FBAC577B14D3740"/>
+               <pb n="7" facs="unknown:022928_0006_0FBAC577B14D3740"/>
                <head>4.</head>
                <l>'Twill be a friend worth while to ſee,</l>
                <l>A friend that will rejoice in thee;</l>
@@ -362,7 +363,7 @@
                <l>But tribulation I have paſs'd,</l>
                <l>I've ſeen an end of all at laſt;</l>
                <l>
-                  <pb n="8" facs="tcp:022928_0007_0FBAC57A5625CCC0"/>I to my Father's houſe am come,</l>
+                  <pb n="8" facs="unknown:022928_0007_0FBAC57A5625CCC0"/>I to my Father's houſe am come,</l>
                <l>To never, never go from home.</l>
             </lg>
             <lg n="11">
@@ -404,7 +405,7 @@
                <l>But with him go I muſt.</l>
             </lg>
             <lg n="4">
-               <pb n="9" facs="tcp:022928_0008_0FBAC57C35E1BB50"/>
+               <pb n="9" facs="unknown:022928_0008_0FBAC57C35E1BB50"/>
                <head>4.</head>
                <l>But oh the proſpect I behold!</l>
                <l>It wounds me to the heart;</l>
@@ -451,7 +452,7 @@
                <l>from hands and feet and ſide.</l>
             </lg>
             <lg n="5">
-               <pb n="10" facs="tcp:022928_0009_0FBAC57E09758A10"/>
+               <pb n="10" facs="unknown:022928_0009_0FBAC57E09758A10"/>
                <head>5.</head>
                <l>Behold him hanging in diſtreſs,</l>
                <l>And GOD from him withdrew,</l>
@@ -497,7 +498,7 @@
                <l>That can't but bring him near.</l>
             </lg>
             <lg n="2">
-               <pb n="11" facs="tcp:022928_0010_0FBAC57F5986A718"/>
+               <pb n="11" facs="unknown:022928_0010_0FBAC57F5986A718"/>
                <head>2.</head>
                <l>Him entertain, while free from cares;</l>
                <l>While you have youth in prime;</l>
@@ -544,7 +545,7 @@
                <l>If I look back when I was young,</l>
                <l>It yields me no relief;</l>
                <l>
-                  <pb n="12" facs="tcp:022928_0011_0FBAC58338A5F018"/>Then all was pleaſure—all was ſong—</l>
+                  <pb n="12" facs="unknown:022928_0011_0FBAC58338A5F018"/>Then all was pleaſure—all was ſong—</l>
                <l>That fills me now with grief.</l>
             </lg>
             <lg n="9">
@@ -592,7 +593,7 @@
          </div>
          <div type="poem">
             <pb n="13"
-                facs="tcp:022928_0012_0FBAC584757ADB60"
+                facs="unknown:022928_0012_0FBAC584757ADB60"
                 rendition="simple:additions"/>
             <head>The Doctrine of univerſal Salvation, examined and rejected.</head>
             <lg n="1">
@@ -642,7 +643,7 @@
                <l>Will prove bold hardy ones.</l>
             </lg>
             <lg n="7">
-               <pb n="14" facs="tcp:022928_0013_0FBAC5867A43C580"/>
+               <pb n="14" facs="unknown:022928_0013_0FBAC5867A43C580"/>
                <head>7.</head>
                <l>Ages of ages multiply'd,</l>
                <l>By what they cannot tell,</l>
@@ -686,7 +687,7 @@
             </lg>
          </div>
          <div type="poem">
-            <pb n="15" facs="tcp:022928_0014_0FBAC5877800F5B8"/>
+            <pb n="15" facs="unknown:022928_0014_0FBAC5877800F5B8"/>
             <head>Work while the Day laſts.</head>
             <lg n="1">
                <head>1.</head>
@@ -732,7 +733,7 @@
                <l>No pardons paſs the ſeal of heaven.</l>
             </lg>
             <lg n="7">
-               <pb n="16" facs="tcp:022928_0015_0FBAC5891CB4F7F0"/>
+               <pb n="16" facs="unknown:022928_0015_0FBAC5891CB4F7F0"/>
                <head>7.</head>
                <l>It is a world—but who reigns there—</l>
                <l>Why nothing elſe but black deſpair:</l>
@@ -778,7 +779,7 @@
                <l>No friend nor helper near,</l>
             </lg>
             <lg n="2">
-               <pb n="17" facs="tcp:022928_0016_0FBAC58B89438948"/>
+               <pb n="17" facs="unknown:022928_0016_0FBAC58B89438948"/>
                <head>2.</head>
                <l>That's long been gathering wrath,</l>
                <l>And fill'd his wicked ſoul,</l>
@@ -825,7 +826,7 @@
                <l>Could he but entertain,</l>
                <l>That he with GOD ſhould dwell,</l>
                <l>
-                  <pb n="18" facs="tcp:022928_0017_0FBAC58CB172FB38"/>When years a million had run out,</l>
+                  <pb n="18" facs="unknown:022928_0017_0FBAC58CB172FB38"/>When years a million had run out,</l>
                <l>'Twould yield him ſongs in hell.</l>
             </lg>
             <lg n="9">
@@ -872,7 +873,7 @@
             </lg>
          </div>
          <div type="poem">
-            <pb n="19" facs="tcp:022928_0018_0FBAC58EA2F0E688"/>
+            <pb n="19" facs="unknown:022928_0018_0FBAC58EA2F0E688"/>
             <head>GOD every where.</head>
             <lg n="1">
                <head>1.</head>
@@ -918,7 +919,7 @@
             </lg>
             <lg n="7">
                <pb n="20"
-                   facs="tcp:022928_0019_0FBAC58FFA2B20E8"
+                   facs="unknown:022928_0019_0FBAC58FFA2B20E8"
                    rendition="simple:additions"/>
                <head>7.</head>
                <l>O fool! O fool! I ſure ſhould be,</l>
@@ -965,7 +966,7 @@
                <l>The ſolemn day to attend.</l>
             </lg>
             <lg n="3">
-               <pb n="21" facs="tcp:022928_0020_0FBAC5934EE49770"/>
+               <pb n="21" facs="unknown:022928_0020_0FBAC5934EE49770"/>
                <head>3.</head>
                <l>The earth and ſea 'll obey his voice,</l>
                <l>And ſtraight reſign their dead,</l>
@@ -1012,7 +1013,7 @@
             </lg>
             <lg n="2">
                <pb n="22"
-                   facs="tcp:022928_0021_0FBAC5953246FCA8"
+                   facs="unknown:022928_0021_0FBAC5953246FCA8"
                    rendition="simple:additions"/>
                <head>2.</head>
                <l>When I retire for prayer,</l>
@@ -1061,7 +1062,7 @@
                <l>Unreconcil'd to you.</l>
             </lg>
             <lg n="3">
-               <pb n="23" facs="tcp:022928_0022_0FBAC596778397F8"/>
+               <pb n="23" facs="unknown:022928_0022_0FBAC596778397F8"/>
                <head>3.</head>
                <l>The dear Redeemer who did die,</l>
                <l>Entirely for your ſake,</l>
@@ -1111,7 +1112,7 @@
                <l>But no relief can gain.</l>
             </lg>
             <lg n="10">
-               <pb n="24" facs="tcp:022928_0023_0FBAC598064E9408"/>
+               <pb n="24" facs="unknown:022928_0023_0FBAC598064E9408"/>
                <head>10.</head>
                <l>You muſt embrace eternal woe,</l>
                <l>Muſt make your bed in hell,</l>
